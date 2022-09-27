@@ -8,8 +8,8 @@ Victime Machine Ubuntu VM ( 192.168.1.50), Kali attacker VM ( 203.0.113.2).
 
 Condition-------
 
-SSH is runing in Ubuntu VM, service denyhosts is not running, and you know the user ID of the Ubuntu.
+SSH is runing in Ubuntu VM, service denyhosts is not running, and you know the user ID and password of user of the Ubuntu.
 
 Goal--------
 
-crack the password of Ubuntu User.
+crack the password of other User of Ubuntu.
