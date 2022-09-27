@@ -1,0 +1,6 @@
+# To stop the Brute Force attact, we could stop the start the service denayhosts. It will block the IP address of 
+# attcker 
+
+# Type below colde in Ubuntu VM to start service denayhosts
+sudo service denyhosts start
+
