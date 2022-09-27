@@ -8,7 +8,7 @@ Victime Machine Ubuntu VM ( 192.168.1.50), Kali attacker VM ( 203.0.113.2).
 
 Condition-------
 
-SSH is runing in Ubuntu VM,service denyhosts is not running, and you know the user ID of the Ubuntu.
+SSH is runing in Ubuntu VM, service denyhosts is not running, and you know the user ID of the Ubuntu.
 
 Goal--------
 
