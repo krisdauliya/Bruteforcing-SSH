@@ -1,1 +1,6 @@
+#Lets assume that SSH service is running and service debyhosts is stopped in Ubuntu VM. 
+# Assume one of the user in Ubuntu is student
+
+
+From attaker ( Kali VM), type below command 
 
