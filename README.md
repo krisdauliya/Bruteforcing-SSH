@@ -12,4 +12,4 @@ SSH is runing in Ubuntu VM, service denyhosts is not running, and you know the u
 
 Goal--------
 
-crack the password of other User of Ubuntu.
+crack the password of other Users of Ubuntu.
